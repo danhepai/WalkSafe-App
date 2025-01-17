@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "name": "WalkSafe",
+    "slug": "WalkSafe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.WalkSafe",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./src/assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "@rnmapbox/maps",
+        {
+          "RNMapboxMapsImpl": "maplibre"
+        }
+      ],
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "extra": {
+      "name": "WalkSafe",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "717b4699-6483-4a1a-a4a5-3599b3d4b938"
+      },
+      "MAPBOX_ACCESS_TOKEN": "pk.eyJ1IjoicGVuemVybyIsImEiOiJjbTNneGs2Y20wOHNkMmtzZDVtbnE5aXdrIn0.LFU01tzxKuGGR0NAYnYQyQ",
+      "API_BASE_URL": "http://192.168.50.159:8000/"
+    }
+  }
+}

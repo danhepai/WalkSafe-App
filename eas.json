@@ -1,0 +1,25 @@
+{
+  "cli": {
+    "version": ">= 13.2.3",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "MAPBOX_ACCESS_TOKEN": "pk.eyJ1IjoicGVuemVybyIsImEiOiJjbTNneGs2Y20wOHNkMmtzZDVtbnE5aXdrIn0.LFU01tzxKuGGR0NAYnYQyQ",
+        "API_BASE_URL": "http://192.168.50.159:8000/"
+      }
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "autoIncrement": true
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
