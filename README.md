@@ -34,8 +34,6 @@ The data used for route configuration and optimization were sourced from public 
 5. _Route navigation_
 6. _Route searching_
 7. _Route overview_
-![WalkSafe](https://github.com/user-attachments/assets/db1b1fae-4ebe-4114-8cde-250257541949)
-
-8. _Explore routes page_
-![IMG_2935](https://github.com/user-attachments/assets/f06d19d7-8c6a-4c02-aa56-3ca974cf1e40)
+8. _Explore page_
+![WalkSafe](https://github.com/user-attachments/assets/ef5e2290-08ff-4976-af68-0c0075f6d2c0)
 
