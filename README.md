@@ -3,10 +3,11 @@
 WalkSafe is a mobile application designed to provide users with safe and enjoyable walking routes tailored to their preferences. Developed during the M100 Cities - InnovateTech 
 for Climate hackathon in cooperation with Babes-Boylai University of Cluj-Napoca, this project integrates advanced technologies to enhance urban mobility and walking experiences.
 
-**Project Overview**
+**Project Overview:**
+
 The application is a mobile app that focuses on providing a route to the user's desired destination. What makes it **unique** is the ability to personalize the route so that it follows certain 'tags', such as "Water Supply", "No Pollution", "Sunny", "Shady" and much more to be added. After 2 months of development, the team got the 4th place, awarded with €1500.
 
-The development team was formed by 5 people, including myself, working mostly on the front-end part of the application due to it's complexity.
+The development team was formed by 5 people, including myself, working mostly on the front-end part of the application due to its complexity.
 
 **Features**
 1. _Customizable Routes & Directions_: Users can personalize their walking routes using tags such as "Water Supply", "No Pollution", etc. After starting the route, the user gets on the navigation view where directions are given to follow the path.
