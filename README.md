@@ -27,24 +27,14 @@ The development team was formed by 5 people, including myself, working mostly on
 The data used for route configuration and optimization were sourced from public API like Google APIs, Waze APIs and also from datasets from the Cluj-Napoca City Hall including water sources, green spaces, tree cover and urban areas.
 
 **Snipets from the app**
-1. _Register & Login page_
-![Screenshot 2025-01-17 at 14 57 02](https://github.com/user-attachments/assets/d6c078e9-fd00-45ba-92d0-63fa4c64f1a8)
-![Screenshot 2025-01-17 at 14 56 52](https://github.com/user-attachments/assets/bc04fd5e-f562-4fe9-81e2-033d237d54c8)
-
-2. _Profile page_
-![Screenshot 2025-01-17 at 16 37 22](https://github.com/user-attachments/assets/b2355dc6-610c-4263-922b-ae90ff2056b0)
-
+1. _Register_
+2. _Login page_
+3. _Profile page_
 4. _Home page with map overview_
- ![IMG_2934](https://github.com/user-attachments/assets/66bd7834-6528-43ff-967e-475d7231c72f)
-
 5. _Route navigation_
-![5b419679-deca-4be3-b4b6-4b1d0ac822e2](https://github.com/user-attachments/assets/457b25c8-5ae2-4e52-8c71-a4af33de8d18)
-
 6. _Route searching_
-![IMG_2937](https://github.com/user-attachments/assets/6a4d2dfe-c670-490a-b23e-1421c7001536)
-
 7. _Route overview_
-![IMG_2936](https://github.com/user-attachments/assets/d2f630be-e0c9-4b71-b1d3-41c1a328e333)
+![WalkSafe](https://github.com/user-attachments/assets/db1b1fae-4ebe-4114-8cde-250257541949)
 
 8. _Explore routes page_
 ![IMG_2935](https://github.com/user-attachments/assets/f06d19d7-8c6a-4c02-aa56-3ca974cf1e40)
